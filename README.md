@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" width="200" alt="Sathish's Profile">
+<!--   <img src="https://tsathish27.github.io/Portifolio_testing2.o-github.io/sathi.jpg" width="200" alt="Sathish's Profile"> -->
 </p>
 
 # Hello, I'm Sathish! 👋
