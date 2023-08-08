@@ -1,16 +1,64 @@
-### Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" width="200" alt="Sathish's Profile">
+</p>
 
-<!--
-**tsathish27/tsathish27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Sathish! 👋
 
-Here are some ideas to get you started:
+🎓 Undergraduate in Computer Science & Engineering  
+💻 Full Stack Explorer | 📚 DSA Enthusiast  
+🚀 Turning code into magic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+## 🌱 Learning & Exploring
+
+Currently immersed in:
+
+- 🌐 Backend magic with Node.js and Express.js
+- 📊 Mastering Data Structures and Algorithms
+
+## 🛠️ Featured Projects
+
+1. **Portfolio Magic**
+   - 🌐 Visit: [Portfolio](https://www.yourportfolio.com)
+   - 📄 Details: [GitHub Repo](https://github.com/yourusername/portfolio-repo)
+
+2. **E-commerce Elegance**
+   - 🌐 Explore: [E-commerce Page](https://www.ecommercelandingpage.com)
+   - 📄 Codebase: [GitHub Repo](https://github.com/yourusername/ecommerce-repo)
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+## 🎯 Aiming For
+
+- 🌍 Collaborating on innovative full-stack projects
+- 🌟 Excelling in problem-solving through DSA mastery
+
+## 🤝 Open to Collaborate
+
+If you're ready to push boundaries and transform ideas into reality, let's connect!
+
+<!-- Crafted with code & passion -->
