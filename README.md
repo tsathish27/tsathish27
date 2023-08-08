@@ -61,4 +61,19 @@ Currently immersed in:
 
 If you're ready to push boundaries and transform ideas into reality, let's connect!
 
+##
 <!-- Crafted with code & passion -->
+<div align="center" class="badge-container">
+  <div class="badge">
+    <span class="badge-icon">👁️</span>
+    <span class="badge-label">Profile Views</span>
+    <span>1,234</span>
+  </div>
+  <div class="badge">
+    <span class="badge-icon">📚</span>
+    <span class="badge-label">Total Repos</span>
+    <span>32</span>
+  </div>
+</div>
+
+ 
