@@ -45,7 +45,7 @@ Currently immersed in:
   <a href="https://www.linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/tsathish27">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:your.email@example.com">
