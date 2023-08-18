@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
+   <img src="https://img.shields.io/badge/Web3-%23010101.svg?&style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3">
 </p>
 
 ## 🌱 Learning & Exploring
