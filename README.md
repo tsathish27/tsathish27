@@ -29,15 +29,7 @@ Currently immersed in:
 - 🌐 Backend magic with Node.js and Express.js
 - 📊 Mastering Data Structures and Algorithms
 
-## 🛠️ Featured Projects
-
-1. **Portfolio Magic**
-   - 🌐 Visit: [Portfolio](https://tsathish27.github.io/Portifolio_testing2.o-github.io/)
-   - 📄 Details: [GitHub Repo](https://github.com/tsathish27/Portifolio_testing2.o-github.io)
-
-2. **Restaurant Web page **
-   - 🌐 Explore: [](https://tsathish27.github.io/restaurant_task.github.io/)
-   - 📄 Codebase: [GitHub Repo](https://github.com/tsathish27/restaurant_task.github.io)
+ 
 
 ## 📫 Let's Connect
 
