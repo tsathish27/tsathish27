@@ -15,19 +15,29 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-   <img src="https://img.shields.io/badge/Web3-%23010101.svg?&style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Web3-%23010101.svg?&style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3">
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot">
+
 </p>
 
 ## 🌱 Learning & Exploring
 
 Currently immersed in:
 
-- 🌐 Backend magic with Node.js and Express.js
-- 📊 Mastering Data Structures and Algorithms
+- 📈 Strengthening problem-solving skills via **DSA**
+- 🌐 Diving deeper into **Web development, WEB3 and Blockchain fundamentals**
+- 🤖 Exploring Agentic AI (MCP) &  Agents
 
  
 
